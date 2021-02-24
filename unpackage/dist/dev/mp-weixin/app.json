@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/music/music",
+    "pages/weather/weather",
+    "pages/news/news",
+    "pages/ours/ours",
+    "pages/music/gedan/gedan",
+    "pages/music/gedan/gedanmore/gedanmore",
+    "components/musicswith/musicswith",
+    "components/musicswith/musicui/musicui"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/music/music",
+        "text": "音乐"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "天气"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "text": "新闻"
+      },
+      {
+        "pagePath": "pages/ours/ours",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap81.json"
+}

@@ -1,0 +1,1 @@
+<view class="bg"><view class="title"><view class="img"><image src="{{coverImgUrl}}" mode></image></view><view class="text">{{''+gedanname+''}}</view></view><view class="content">{{''+gedanjieshao+''}}</view></view>

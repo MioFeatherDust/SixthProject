@@ -1,0 +1,26 @@
+page {
+  min-height: 100%;
+  background-color: #8f8f94;
+}
+page .title .img {
+  margin: 0 auto;
+}
+page .title .img image {
+  display: block;
+  width: 400rpx;
+  height: 400rpx;
+  border-radius: 20rpx;
+  margin: 30rpx auto;
+}
+page .title .text {
+  color: #f8f8f8;
+  text-align: center;
+}
+page .content {
+  color: #f8f8f8;
+  font-size: 24rpx;
+  padding: 48rpx;
+  text-indent: 48rpx;
+  line-height: 36rpx;
+}
+

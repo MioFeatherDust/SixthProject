@@ -1,0 +1,33 @@
+.scrolly {
+  padding: 0 20rpx;
+  margin: 20rpx 0;
+}
+.scrolly ._h3 {
+  padding: 5rpx;
+  margin-left: 20rpx;
+}
+.scrolly .scrollall {
+  white-space: nowrap;
+  display: inline-block;
+}
+.scrolly .scrollall .singlemsg {
+  width: 260rpx;
+  height: 320rpx;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  padding: 10rpx;
+}
+.scrolly .scrollall .singlemsg view image {
+  width: 230rpx;
+  height: 230rpx;
+  border-radius: 10px;
+  border: #333 1rpx solid;
+}
+.scrolly .scrollall .singlemsg view view {
+  font-size: 20rpx;
+  white-space: normal;
+  padding: 5rpx;
+  text-align: left;
+}
+
